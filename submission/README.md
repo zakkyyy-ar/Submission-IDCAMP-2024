@@ -2,10 +2,10 @@
 
 
 ## Daftar Isi
-- [Tentang]
-- [Instalasi]
-- [Penggunaan]
-- [Kontak]
+- Tentang
+- Instalasi
+- Penggunaan
+- Kontak
 
 ## Tentang
 
