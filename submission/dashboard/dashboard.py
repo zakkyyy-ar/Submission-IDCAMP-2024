@@ -3,9 +3,9 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-kualitas_udara_harian = pd.read_csv('dashboard/kualitas_udara_per_jam_clean.csv ', delimiter= ',')
-rata_rata_tahunan = pd.read_csv('dashboard/rata_rata_tahunan_clean.csv', delimiter= ',')
-persentase_hari = pd.read_csv('dashboard/persentase_hari_clean.csv', delimiter= ',')
+kualitas_udara_harian = pd.read_csv('kualitas_udara_per_jam_clean.csv ', delimiter= ',')
+rata_rata_tahunan = pd.read_csv('rata_rata_tahunan_clean.csv', delimiter= ',')
+persentase_hari = pd.read_csv('persentase_hari_clean.csv', delimiter= ',')
 
 kualitas_udara_harian_df = pd.DataFrame(kualitas_udara_harian)
 rata_rata_tahunan_df = pd.DataFrame(rata_rata_tahunan)
